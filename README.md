@@ -25,7 +25,7 @@ python neural_network.py
 ```
 
 ### 3. Implement Backpropagation
-To fully train the network, you need to complete the `backward` method in the `NeuralNetwork` class.
+🚨 **Important:** To fully train the network, you need to complete the `backward` method within the `NeuralNetwork` class.
 
 ---
 

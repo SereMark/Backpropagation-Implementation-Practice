@@ -1,7 +1,7 @@
 """
 Neural Network Backpropagation Implementation
 
-This script is part of an educational project designed to help students understand and implement backpropagation in a simple neural network. 
+This script is part of an educational project designed to help learners understand and implement backpropagation in a simple neural network. 
 
 💡 For detailed instructions, explanations, and examples, please refer to the README.md file in this repository.
 

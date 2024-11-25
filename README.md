@@ -1,12 +1,12 @@
 # Neural Network Backpropagation Implementation
 
-This project implements a simple neural network for learning the XOR function using backpropagation. It is designed as an educational tool to help students understand the backpropagation algorithm and its role in training neural networks.
+This project implements a simple neural network for learning the XOR function using backpropagation. It is designed as an educational tool to help learners understand the backpropagation algorithm and its role in training neural networks.
 
 ---
 
 ## 📋 Project Structure
 
-- **`neural_network.py`**: The main Python script that contains the implementation of the neural network, forward pass, and utility functions. The `backward` method is left incomplete for students to implement.
+- **`neural_network.py`**: The main Python script that contains the implementation of the neural network, forward pass, and utility functions. The `backward` method is left incomplete for you to implement.
 
 ---
 

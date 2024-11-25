@@ -111,7 +111,7 @@ Contributions to improve the project or clarify the documentation are welcome! F
 
 ## 📜 License
 
-This project is licensed under the MIT License. Feel free to use it for educational purposes.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ---
 
